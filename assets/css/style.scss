@@ -5,7 +5,13 @@
 
 /* Make links a nice forest green, instead of the default blue. */
 a:link, a:visited, a:active, a:hover {
+	font-weight: bold;
 	color: #336600;
+}
+
+a:hover {
+	color: #000000;
+	background-color: #336600;
 }
 
 /* TODO: Needs testing. Add a custom font, like Vulf Mono */
