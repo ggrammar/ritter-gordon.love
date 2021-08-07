@@ -3,8 +3,8 @@
 
 @import "{{ site.theme }}";
 
-a {
-	color: hotpink;
+a:link, a:visited, a:active, a:hover {
+	color: #336600;
 }
 
 .body {
