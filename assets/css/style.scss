@@ -13,7 +13,13 @@ a:link, a:visited, a:active, a:hover {
 	font-family: "Times New Roman", Times, serif;
 }
 
-/* Try to hide the "View the Project on GitHub" block in the header */
+/* Hide the "View the Project on GitHub" block in the header */
 p.view {
+	visibility: hidden;
+}
+
+/* Try to hide the "project maintained by ggrammar" block in the footer,
+ but keep the "Theme by orderedlist" bit */
+footer.p.a {
 	visibility: hidden;
 }
