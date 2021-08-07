@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+a {
+	color: hotpink;
+}
+
 .body {
 	font-family: "Times New Roman", Times, serif;
 }
