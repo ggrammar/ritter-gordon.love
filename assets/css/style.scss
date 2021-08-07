@@ -20,6 +20,9 @@ p.view {
 
 /* Try to hide the "project maintained by ggrammar" block in the footer,
  but keep the "Theme by orderedlist" bit */
-footer.p.a {
+footer p {
 	visibility: hidden;
+}
+footer p small {
+	visibility: visible;
 }
