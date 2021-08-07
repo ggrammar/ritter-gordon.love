@@ -3,10 +3,17 @@
 
 @import "{{ site.theme }}";
 
+/* Make links a nice forest green, instead of the default blue. */
 a:link, a:visited, a:active, a:hover {
 	color: #336600;
 }
 
+/* TODO: Needs testing. Add a custom font, like Vulf Mono */
 .body {
 	font-family: "Times New Roman", Times, serif;
+}
+
+/* Try to hide the "View the Project on GitHub" block in the header */
+p.view {
+	visibility: hidden;
 }
