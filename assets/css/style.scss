@@ -9,13 +9,14 @@ a:link, a:visited, a:active, a:hover {
 	color: #336600;
 }
 
+/* Emma wanted links to have a background when you hover over them - it's a neat touch! */
 a:hover {
 	color: #FFFFFF;
 	background-color: #336600;
 }
 
-/* TODO: Needs testing. Add a custom font, like Vulf Mono */
-section {
+/* Select a monospace font instead of the default. Looks like we get Noto-Sans from GitHub Pages. */
+html * {
 	font-family: "Monaco", monospace;
 }
 
@@ -24,8 +25,8 @@ p.view {
 	visibility: hidden;
 }
 
-/* Try to hide the "project maintained by ggrammar" block in the footer,
- but keep the "Theme by orderedlist" bit */
+/* Hide the "project maintained by ggrammar" block in the footer,
+ but keep the "Theme by orderedlist" block */
 footer p {
 	visibility: hidden;
 }
