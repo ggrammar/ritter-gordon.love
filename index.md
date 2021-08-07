@@ -7,9 +7,15 @@ Sunday, January 2nd, 2022. The ceremony is at 11AM.
 ## Where is the wedding?
 [The Cotton Room](https://tchospitalitygroup.com/our-companies/the-cotton-room/), 807 E Main St, Durham NC, 27701
 
-## Travel and Accomodations
+## How do I get there?
 If you're flying to Durham for the wedding, fly in to RDU ([Raleigh-Durham International Airport](https://www.rdu.com/)).
 
 ## Hotel Information TBD
 
 ## Registry Information TBD
+
+## Will Geronimo be there? 
+No. 
+
+## I have an objection about this union!
+Keep it to yourself.
