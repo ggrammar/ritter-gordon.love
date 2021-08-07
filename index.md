@@ -18,4 +18,4 @@ If you're flying to Durham for the wedding, fly in to RDU ([Raleigh-Durham Inter
 No. 
 
 ## I have an objection about this union!
-Keep it to yourself.
+*Keep it to yourself*.
