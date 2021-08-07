@@ -20,9 +20,11 @@ html * {
 	font-family: "Monaco", monospace;
 }
 
-/* Hide the "View the Project on GitHub" block in the header */
+/* Hide and collapse the "View the Project on GitHub" block in the header */
 p.view {
 	visibility: hidden;
+	font-size: 0px;
+	margin: 0 0 0px;
 }
 
 /* Hide the "project maintained by ggrammar" block in the footer,
