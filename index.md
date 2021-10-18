@@ -14,7 +14,7 @@ If you're flying to Durham for the wedding, fly in to RDU ([Raleigh-Durham Inter
 Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSd_93D2n28ttJ7eVe08OMRarMYEwobt1IA1-ItAMmeOy-0lTw/viewform?usp=sf_link).
 
 ## Hotel Information
-The Hampton Inn in Durham is a 10-minute drive from the venue, and is convenient to downtown Durham. 
+The Hampton Inn in Durham is a 10-minute drive from the venue and is convenient to downtown Durham. 
 
 We have a block of rooms reserved at this hotel. There are two ways to book these discounted hotel rooms:
  * Call the hotel directly at 919-688-8880 and ask for the Ritter-Gordon Wedding block.
