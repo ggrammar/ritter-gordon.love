@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 logo: /assets/img/site_logo.jpg
 show_downloads: false
+
+markdown: kramdown
