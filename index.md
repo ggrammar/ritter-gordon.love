@@ -25,7 +25,7 @@ We have a block of rooms reserved at this hotel. There are two ways to book thes
 These discounted rooms will **no longer be available** after **30 November 2021**. Book your stay before that date. 
 
 ## Registry Information 
-We are registered with Zola. [Click here](www.zola.com/registry/ritter-gordon-love) to take a look at our registry, where you'll find options for wedding gifts as well as cash gifts to support our honeymoon. We'd also welcome a board game or a book that's of special importance! 
+We are registered with Zola. [Click here](https://www.zola.com/registry/ritter-gordon-love) to take a look at our registry, where you'll find options for wedding gifts as well as cash gifts to support our honeymoon. We'd also welcome a board game or a book that's of special importance! 
 
 ## Will Geronimo be there? 
 No. 
